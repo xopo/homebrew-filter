@@ -1,9 +1,9 @@
 class Filter < Formula
   desc "pipe utility for filtering out noise from test output"
   homepage "https://github.com/xopo/filter"
-  version "v0.1-prerelease"
-  url "https://github.com/xopo/filter/releases/download/prerelease/filter"
-  sha256 "c0774516f2798d2a24e19d6afc2feba8ced2b326e3fb4169efe64e86e9bb9ac6"
+  version "v0.1.beta"
+  url "https://github.com/xopo/filter/releases/download/v0.1beta/filter"
+  sha256 "799ed447b80d02eb199d8ae4556c17f71d5b5e7c05d2f82f462803b8c072eb41"
   license "MIT"
 
   def install
